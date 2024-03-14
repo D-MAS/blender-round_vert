@@ -11,7 +11,8 @@
 
 ![image](https://github.com/D-MAS/blender-round_vert/assets/57054077/58da7b9a-148f-4f03-a216-1a4630aa69a0)
 
-6. In Edit Mode, click Vertex -> Round Vertices
+6. (Optional) In Edit Mode, select the vertices you want to round
+7. click Vertex -> Round Vertices
 
 <br><br><br><br><br><br><br><br><br>
 confession, i made most of this with copilot, the only part that is genuinely mine, is in line 39 where i changed this
