@@ -13,3 +13,13 @@
 
 6. In Edit Mode, click Vertex -> Round Vertices
 
+<br><br><br><br><br><br><br><br><br>
+confession, i made most of this with copilot, the only part that is genuinely mine, is in line 39 where i changed this
+```py
+			selected_verts = [v for v in bm.verts if v.select]
+```
+to
+```py
+			selected_verts = [v for v in bm.verts if v.select] or bm.verts
+```
+master programmer
